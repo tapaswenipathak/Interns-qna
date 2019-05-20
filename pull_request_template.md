@@ -1,0 +1,4 @@
+- [ ] I have read repository docs
+- [ ] I have read mom
+- [ ] I have read information @tapaswenipathak sent
+- [ ] I have read tickets opened in interns-qna repository
